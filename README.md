@@ -69,13 +69,6 @@ Result:
 ```bash
 (env) saba@saba:~/Desktop/instadown$ tree -L 2
 .
-├── app.py
-├── env
-│   ├── bin
-│   ├── include
-│   ├── lib
-│   ├── lib64 -> lib
-│   └── pyvenv.cfg
 ├── instagram
 │   ├── 2022-05-16_16-00-20_UTC_profile_pic.jpg
 │   ├── 2023-12-09_19-36-34_UTC.jpg
@@ -96,7 +89,6 @@ Result:
 │   ├── id
 │   ├── instagram_25025320.json.xz
 │   └── iterator_ICRKNOZh.json.xz
+│   ...
 ├── instagram_content
-├── README.md
-└── requirements.txt
 ```
